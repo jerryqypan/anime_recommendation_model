@@ -1,0 +1,14 @@
+**.json
+**.idea
+**.ipynb_checkpoints
+**/**.npy
+**/**.csv
+**/**.json
+histories
+models
+test_node
+**.npz
+**.csv
+data_old
+data
+**.h5
